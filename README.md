@@ -6,6 +6,9 @@ The main target of this exercise was to transfer previous "Task List" made in "v
 It is project that can help you to make a list of things you have to buy or to do to accomplish your duties,
 for example list of products for dinner or some tasks to do before a nap.
 
+## Want to see how it look? (Warning: there is no interaction yet)
+https://barteksbr.github.io/todos-list-react/
+
 
 # What else?
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
