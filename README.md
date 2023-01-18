@@ -9,6 +9,10 @@ for example list of products for dinner or some tasks to do before a nap.
 ## Want to see how it look? (Warning: there is no interaction yet)
 https://barteksbr.github.io/todos-list-react/
 
+## Here is Print Screen of its image:
+
+![prtsc_todo_list_react](https://user-images.githubusercontent.com/118526358/213133645-181e78e5-8f4c-4bcb-84af-2488d834efb2.png)
+
 
 # What else?
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
