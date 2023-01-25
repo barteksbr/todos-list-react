@@ -42,12 +42,23 @@ function App() {
     })));
   }
 
+  const addNewTask = (content) => {
+    setTasks(tasks => [
+      ...tasks,
+      {
+        content,
+        done: false,
+        id: tasks.length === 0 ? 1 : tasks[tasks.length - 1].id + 1,
+      }
+    ])
+  }
+
   return (
     <Container>
       <h1>Lista zadań</h1>
       <Section
         title="Dodaj nowe zadanie"
-        body={<Form />}
+        body={<Form addNewTask={addNewTask} />}
       />
 
       <Section
