@@ -9,9 +9,10 @@ for example list of products for dinner or some tasks to do before a nap.
 ## Want to see how it look?
 https://barteksbr.github.io/todos-list-react/
 
-## Here is Print Screen of its image:
+## Here is short film how it looks:
 
-![prtsc_todo_list_react](https://user-images.githubusercontent.com/118526358/213133645-181e78e5-8f4c-4bcb-84af-2488d834efb2.png)
+
+![to_do_list_film](https://user-images.githubusercontent.com/118526358/214802203-f216d945-1a8a-4817-b2ce-797f871e609e.gif)
 
 
 # What else?
